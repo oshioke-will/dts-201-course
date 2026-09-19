@@ -1,1 +1,2 @@
-# dts-201-course
+DTS 201: Data Collection, Sampling & Quality: This repository contains class assignments, data cleaning workflows, sampling demonstrations, and quality auditing scripts for DTS 201 at Pan-Atlantic University.   📋 Course OverviewThis module covers: Data Quality Dimensions, Completeness, Consistency, Timeliness, Validity, and Uniqueness.   Data Cleaning & Wrangling which includes Handling missing values, standardizing string variables, and coercing data types using pandas.   Sampling Techniques: Applying Simple Random Sampling (SRS) and Stratified Sampling by category.Statistical Evaluation
+Requirements & Setup: Python 3.8+, data Files such as :50_Startups.csv, 50_startups_messy.xlsx.   
